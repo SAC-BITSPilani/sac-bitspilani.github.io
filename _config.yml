@@ -1,6 +1,6 @@
-name: Twister
-description: a powerful jekyll theme
-url: #place url
+name: Student Academic Cell
+description: 
+url: https://sac-bitspilani.github.io
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
