@@ -1,5 +1,5 @@
-name: Student Academic Cell
-description: 
+name: Students' Academic Cell
+description: BITS Pilani, Pilani Campus
 url: https://sac-bitspilani.github.io
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
@@ -11,14 +11,7 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
-instagram: "#"
-twitter: "#"
-facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+gmail: "sac.bitspilani@gmail.com"
 
 encoding: utf-8
 defaults:
