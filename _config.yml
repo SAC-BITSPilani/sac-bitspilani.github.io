@@ -96,25 +96,5 @@ prose:
               value: "featimg"
             - name: "Embedded Element"
               value: "iframe"
-      - name: "vimeo-embed"
-        field:
-          element: "text"
-          label: "Vimeo Embedding Code"
-          help: "Set post type to vimeo in order for this to work"
-      - name: "gallery-id"
-        field:
-          element: "text"
-          label: "Gallery ID"
-          help: "ID of the gallery defined within _data/galleries.yml - use include in content to use"
-      - name: "audio-embed"
-        field:
-          element: "text"
-          label: "Audio Embedding Code"
-          help: "Set post type to audio in order for this to work"
-      - name: "yt-video-id"
-        field:
-          element: "text"
-          label: "YouTube Video ID"
-          help: "Set post type to youtube in order for this to work. Do not set featured image, as the youtube video thumbnail will be used"
-          type: "text"
+      
 
