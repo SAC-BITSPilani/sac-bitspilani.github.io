@@ -27,14 +27,14 @@ The other stuff that I have been working on is estimating the accuracy of curren
 
 For understanding numerical relativity, [click here.](https://www.black-holes.org/)
 
-[Gravitational waves explained:.](https://www.ligo.caltech.edu/page/what-are-gw)
+[Gravitational waves explained!](https://www.ligo.caltech.edu/page/what-are-gw)
 
 
 **It sounds really interesting! So which waveform models have you worked on? What kind of systems have you looked at?**
 
 The ones LIGO has detected so far are binary black holes-  basically two black holes orbiting each other. We are also looking for waveforms from binary neutron stars, or a neutron star orbiting a black hole and a lot of other systems which we don’t know, but are out there. I’ve been mainly working on waveform models for binary black holes. But the current waveform models used by LIGO make a lot of assumptions, like they assume there’s no eccentricity in the system, i.e. the orbits are circular, which is a very reasonable assumption because eccentricity gets radiated away. They also assume that the main contribution in the system is from the quadrupolar part, which you can think of like the lowest harmonic of the waveform, the dominant part. I've been working on investigating the effects of the second assumption and identifying cases where it is not valid. I'm also working on a waveform model which is directly based on numerical relativity waveforms and which relaxes this assumption. Hopefully it will be a more accurate waveform model than the ones currently used by LIGO.
 
-[LIGO] (https://en.wikipedia.org/wiki/LIGO)
+[LIGO](https://en.wikipedia.org/wiki/LIGO)
 
 **Is it possible that using the assumptions that LIGO has made, the waveform models predicted by them could be wrong?**
 
@@ -88,8 +88,8 @@ Everything we know about the universe is being painted through EM observations b
 
 _Some interesting links, if this got you hooked-_
 
-[Neil DeGrasse Tyson on Einstein’s theory of General Relativity that predicted GWs.](https://www.youtube.com/watch?v=DoOPEPVYAnU)
+* [Neil DeGrasse Tyson on Einstein’s theory of General Relativity that predicted GWs.](https://www.youtube.com/watch?v=DoOPEPVYAnU)
 
-[LIGO-India](http://www.gw-indigo.org/tiki-index.php?page=LIGO-India)
+* [LIGO-India](http://www.gw-indigo.org/tiki-index.php?page=LIGO-India)
 
 
