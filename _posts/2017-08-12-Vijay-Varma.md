@@ -1,4 +1,3 @@
-filename: 2017-08-12-Vijay-Varma.md
 ---
 layout: standard
 featimg: /gw.jpg
