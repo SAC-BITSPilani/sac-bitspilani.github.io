@@ -1,15 +1,15 @@
 ---
 type: image
-featimg: /gw.jpg
+featimg: gw.jpg
 title: Vijay Varma
 homedisplay: featimg
 description: Interview with alumnus Vijay Varma, pursuing his PhD in Physics at Caltech
 tags: [Gravitational Waves, Caltech, PhD]
 category: [Alumni Interviews]
 ---
-In conversation with Vijay Varma.
+##In conversation with Vijay Varma.
 
-Vijay Varma discusses his journey from doing MSc. Physics and B.E. Mechanical at BITS Pilani to pursuing his PhD in Physics at California Institute of Technology(Caltech) on Numerical Relativity and Gravitational Waves. He has worked at places like ICTS-TIFR and Raman Research Institute, Bangalore(RRI) for his thesis work and summer project respectively. Vijay shares his insights on embarking into undergraduate research and how to take that first step. He talks about the groundbreaking LIGO detections of Gravitational Waves as well as the scope of working in the field. The discussion on his research and his revelations on how things work at Caltech make for an interesting read!
+######Vijay Varma discusses his journey from doing MSc. Physics and B.E. Mechanical at BITS Pilani to pursuing his PhD in Physics at California Institute of Technology(Caltech) on Numerical Relativity and Gravitational Waves. He has worked at places like ICTS-TIFR and Raman Research Institute, Bangalore(RRI) for his thesis work and summer project respectively. Vijay shares his insights on embarking into undergraduate research and how to take that first step. He talks about the groundbreaking LIGO detections of Gravitational Waves as well as the scope of working in the field. The discussion on his research and his revelations on how things work at Caltech make for an interesting read!
 
 Some acronyms for non-physicists(also find relevant links in the text):
 GW- Gravitational Wave
@@ -24,16 +24,16 @@ My work is mainly focussed on gravitational waves and numerical relativity. We c
 In order to solve Einstein’s equations, what you do is first set some initial conditions on an initial time slice. It’s sort of like solving an ODE, where you set some initial velocity and initial position. Then you solve Einstein’s Equations for the initial data on the time slice and you step forward in time using Einstein’s equations. I have been focussing on making improvements to the initial data part. 
 The other stuff that I have been working on is estimating the accuracy of current waveform models and recently, constructing new waveform models for LIGO. LIGO detects GWs but it’s buried in a lot of noise. So you need very accurate waveform models to be able to detect them and estimate the source properties. I have been working on estimating what sort of errors we make in our current waveform models and I’m also trying to build an improved waveform model.
 
-For understanding numerical relativity: https://www.black-holes.org/
+For understanding numerical relativity: [https://www.black-holes.org/]
 
-Gravitational waves explained: https://www.ligo.caltech.edu/page/what-are-gw
+Gravitational waves explained: [https://www.ligo.caltech.edu/page/what-are-gw]
 
 
 It sounds really interesting. So which waveform models have you worked on? What kind of systems have you looked at?
 
 The ones LIGO has detected so far are binary black holes-  basically two black holes orbiting each other. We are also looking for waveforms from binary neutron stars, or a neutron star orbiting a black hole and a lot of other systems which we don’t know, but are out there. I’ve been mainly working on waveform models for binary black holes. But the current waveform models used by LIGO make a lot of assumptions, like they assume there’s no eccentricity in the system, i.e. the orbits are circular, which is a very reasonable assumption because eccentricity gets radiated away. They also assume that the main contribution in the system is from the quadrupolar part, which you can think of like the lowest harmonic of the waveform, the dominant part. I've been working on investigating the effects of the second assumption and identifying cases where it is not valid. I'm also working on a waveform model which is directly based on numerical relativity waveforms and which relaxes this assumption. Hopefully it will be a more accurate waveform model than the ones currently used by LIGO.
 
-LIGO: https://en.wikipedia.org/wiki/LIGO
+LIGO: [https://en.wikipedia.org/wiki/LIGO]
 
 Is it possible that using the assumptions that LIGO has made, the waveform models predicted by them could be wrong?
 
@@ -81,14 +81,14 @@ GW detection has opened a whole new window in astronomy. We were dependent on EM
 
 Everything we know about the universe is being painted through EM observations but each time we started looking at a new wavelength of EM wave, we discovered a whole lot of new things which we had never expected. Like back in the mid 1900s, it was the first time we started looking at radio observations and we found out that there was so much more that was not visible solely by optical observations. We discovered pulsars, quasars and the Cosmic Microwave Background. I sort of hope that something similar can happen with GWs. We already found some detections from sources we expected but I think in the future there’ll be sources that we could never imagine and it will be a great thing to discover new things with GWs. And also GWs don’t interact strongly with matter so, for example, if there is a supernova, everything that happens at the core of the supernova, in the terms of EM interactions, is lost due to scattering before it reaches us. But since GWs don’t interact significantly with matter around it, we can get information directly from the core.
 
-Supernova exlained: https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-a-supernova.html
+Supernova exlained: [https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-a-supernova.html]
 
 
 
 Some interesting links, if this got you hooked-
 
-Neil DeGrasse Tyson on Einstein’s theory of General Relativity that predicted GWs: https://www.youtube.com/watch?v=DoOPEPVYAnU
+Neil DeGrasse Tyson on Einstein’s theory of General Relativity that predicted GWs: [https://www.youtube.com/watch?v=DoOPEPVYAnU]
 
-LIGO-India: http://www.gw-indigo.org/tiki-index.php?page=LIGO-India
+LIGO-India: [http://www.gw-indigo.org/tiki-index.php?page=LIGO-India]
 
 
