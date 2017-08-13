@@ -1,5 +1,6 @@
 ---
 layout: standard
+type: image
 featimg: /gw.jpg
 title: Vijay Varma
 homedisplay: featimg
