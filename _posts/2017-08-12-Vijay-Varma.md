@@ -12,8 +12,11 @@ category: [Alumni Interviews]
 ###### Vijay Varma discusses his journey from doing MSc. Physics and B.E. Mechanical at BITS Pilani to pursuing his PhD in Physics at California Institute of Technology(Caltech) on Numerical Relativity and Gravitational Waves. He has worked at places like ICTS-TIFR and Raman Research Institute, Bangalore(RRI) for his thesis work and summer project respectively. Vijay shares his insights on embarking into undergraduate research and how to take that first step. He talks about the groundbreaking LIGO detections of Gravitational Waves as well as the scope of working in the field. The discussion on his research and his revelations on how things work at Caltech make for an interesting read!
 
 Some acronyms for non-physicists(also find relevant links in the text):
+
 **GW**- Gravitational Wave
+
 **LIGO**-Laser Interferometer Gravitational-Wave Observatory
+
 **EM Wave**-Electromagnetic Wave
 
                    
